@@ -56,7 +56,7 @@ It features a unique retro aesthetic and management mechanics set within a dingy
 
 ---
 
-* **Developer:** BobZab
+* **Developer:** BobZab https://www.linkedin.com/in/bobzab/
 * **Event:** Western Colorado University Game Jam 2025
 
 *This is a game jam prototype. Bugs are to be expected!*
