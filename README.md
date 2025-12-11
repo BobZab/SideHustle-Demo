@@ -55,8 +55,8 @@ It features a unique retro aesthetic and management mechanics set within a dingy
 * **Mouse:** Look
 * **E:** Interact (Stations/Items)
 
-* **Developer:** [Your Name/Handle]
+* **Developer:** BobZab
 * **Event:** Western Colorado University Game Jam 2025
 
 ---
-*This is a game jam prototype. Bugs and jagged edges are part of the charm!*
+*This is a game jam prototype. Bugs are to be expected!*
