@@ -11,7 +11,7 @@
 
 While the theme of the jam was **"Critters,"** this project takes a morbid spin on the concept. Rather than befriending the local wildlife, you are tasked with a gritty entrepreneurial challenge. Catching, processing, and selling critters to save up money and keep the lights on.
 
-It features a unique PS1-style retro aesthetic and management mechanics set within a dingy apartment complex.
+It features a unique retro aesthetic and management mechanics set within a dingy apartment complex.
 
 ## 📸 Gallery
 
@@ -54,9 +54,6 @@ It features a unique PS1-style retro aesthetic and management mechanics set with
 * **WASD:** Move
 * **Mouse:** Look
 * **E:** Interact (Stations/Items)
-* **Esc:** Pause/Menu
-
-## 🤝 Credits
 
 * **Developer:** [Your Name/Handle]
 * **Event:** Western Colorado University Game Jam 2025
