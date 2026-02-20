@@ -38,7 +38,7 @@ It features a unique retro aesthetic and management mechanics set within a dingy
 
 * **Engine:** [Godot 4.5.1](https://godotengine.org/)
 * **Language:** GDScript
-* **Modeling/Assets:** Blockbench (Generic Model Format)
+* **Modeling/Assets:** Blockbench
 
 ## 🚀 How to Play
 
